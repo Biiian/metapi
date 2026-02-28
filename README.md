@@ -14,6 +14,9 @@
 <a href="https://github.com/cita-777/metapi/releases">
   <img alt="GitHub Release" src="https://img.shields.io/github/v/release/cita-777/metapi?label=Release&logo=github&style=flat">
 </a><!--
+--><a href="https://github.com/cita-777/metapi/stargazers">
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/cita-777/metapi?style=flat&logo=github&label=Stars">
+</a><!--
 --><a href="https://hub.docker.com/r/1467078763/metapi">
   <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/1467078763/metapi?style=flat&logo=docker&label=Docker%20Pulls">
 </a><!--
@@ -480,6 +483,12 @@ Metapi 完全自托管，所有数据（账号、令牌、路由、日志）均�
 ## 📜 License
 
 [MIT](LICENSE)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cita-777/metapi&type=Date)](https://star-history.com/#cita-777/metapi&Date)
 
 ---
 
